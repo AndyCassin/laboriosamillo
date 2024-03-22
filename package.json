@@ -1,0 +1,29 @@
+{
+  "name": "laboriosamillo",
+  "version": "1.0.0",
+  "types": "lib/registry.d.ts",
+  "main": "lib/registry.js",
+  "description": "provides access to the windows registry through the REG tool",
+  "keywords": [
+    "windows",
+    "quisquam",
+    "eligendi",
+    "velit"
+  ],
+  "author": "CorineLang",
+  "bugs": {
+    "url": "https://github.com/AndyCassin/laboriosamillo.git/issues"
+  },
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndyCassin/laboriosamillo.git"
+  },
+  "devDependencies": {
+    "del": "^5.1.0",
+    "del-cli": "^3.0.0",
+    "mocha": "^7.1.1",
+    "typescript": "^3.8.3",
+    "unit.js": "^2.1.1"
+  }
+}
